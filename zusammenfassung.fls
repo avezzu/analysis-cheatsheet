@@ -1,7 +1,7 @@
-PWD c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung
+PWD c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet
 INPUT C:\Users\aless\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.tex
-OUTPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.log
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.tex
+OUTPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.log
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -903,10 +903,10 @@ INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.aux
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.aux
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.aux
-OUTPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.aux
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.aux
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.aux
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.aux
+OUTPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.aux
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
@@ -944,18 +944,18 @@ INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\ge
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.out
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.out
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.out
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.out
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.out
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.out
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.out
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.out
-OUTPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.pdf
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.out
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.out
-OUTPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.out
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.out
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.out
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.out
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.out
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.out
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.out
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.out
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.out
+OUTPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.pdf
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.out
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.out
+OUTPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.out
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -1029,13 +1029,13 @@ INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fpl
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmbb.tfm
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmbb.tfm
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9t.tfm
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\unit_circle_angles.png
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\unit_circle_angles.png
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\unit_circle_angles.png
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\unit_circle_angles.png
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\unit_circle_angles.png
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\unit_circle_angles.png
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\unit_circle_angles.png
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\unit_circle_angles.png
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\unit_circle_angles.png
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\unit_circle_angles.png
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\unit_circle_angles.png
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\unit_circle_angles.png
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\unit_circle_angles.png
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\unit_circle_angles.png
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9t.vf
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
@@ -1153,9 +1153,9 @@ INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fpl
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.aux
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.out
-INPUT c:\Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.out
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.aux
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.out
+INPUT c:\Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.out
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb

@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.9)  29 JAN 2022 17:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.9)  21 AUG 2022 09:00
 entering extended mode
-**"c:/Users/aless/OneDrive/Dokumente/ETH-Alessandro-PC/2. Semester/Analysis 1/Zusammenfassung/zusammenfassung.tex"
-(c:/Users/aless/OneDrive/Dokumente/ETH-Alessandro-PC/2. Semester/Analysis 1/Zusammenfassung/zusammenfassung.tex
+**"c:/Users/aless/OneDrive/Dokumente/ETH/2. Semester/Analysis 1/Zusammenfassung/analysis-cheatsheet/zusammenfassung.tex"
+(c:/Users/aless/OneDrive/Dokumente/ETH/2. Semester/Analysis 1/Zusammenfassung/analysis-cheatsheet/zusammenfassung.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> xparse <2020-03-03> (C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -627,7 +627,7 @@ File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 File: l3backend-pdftex.def 2021-03-02 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count328
 \l__pdf_internal_box=\box111
-) (c:/Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.aux)
+) (c:/Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.aux)
 \openout1 = `zusammenfassung.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
@@ -696,7 +696,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 104.
 LaTeX Info: Redefining \pageref on input line 104.
 LaTeX Info: Redefining \nameref on input line 104.
- (c:/Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.out) (c:/Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.out)
+ (c:/Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.out) (c:/Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.out)
 \@outlinefile=\write4
 \openout4 = `zusammenfassung.out'.
 
@@ -797,7 +797,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 357.
 
-[2 <c:/Users/aless/OneDrive/Dokumente/ETH-Alessandro-PC/2. Semester/Analysis 1/Zusammenfassung/unit_circle_angles.png>] [3]
+[2 <c:/Users/aless/OneDrive/Dokumente/ETH/2. Semester/Analysis 1/Zusammenfassung/analysis-cheatsheet/unit_circle_angles.png>] [3]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 670.
@@ -878,20 +878,20 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 1639.
 
-[11] [12] (c:/Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.aux)
+[11] [12] (c:/Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.aux)
 Package rerunfilecheck Info: File `zusammenfassung.out' has not changed.
 (rerunfilecheck)             Checksum: 75BEA6EA4EA6BC3EE3831158D34D2CED;11569.
  ) 
 Here is how much of TeX's memory you used:
  24368 strings out of 479334
- 427007 string characters out of 2857085
- 812724 words of memory out of 3000000
+ 427091 string characters out of 2857085
+ 811724 words of memory out of 3000000
  41037 multiletter control sequences out of 15000+200000
  447773 words of font info for 152 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,14n,89p,532b,660s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 87i,14n,89p,538b,660s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmbb.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmr.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmri.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "c:/Users\aless\OneDrive\Dokumente\ETH-Alessandro-PC\2. Semester\Analysis 1\Zusammenfassung\zusammenfassung.pdf" (12 pages, 478808 bytes).
+Output written on "c:/Users\aless\OneDrive\Dokumente\ETH\2. Semester\Analysis 1\Zusammenfassung\analysis-cheatsheet\zusammenfassung.pdf" (12 pages, 478800 bytes).
 PDF statistics:
  646 PDF objects out of 1000 (max. 8388607)
  299 named destinations out of 1000 (max. 500000)
